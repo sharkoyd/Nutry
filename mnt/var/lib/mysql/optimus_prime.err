@@ -1,0 +1,373 @@
+InnoDB: The first specified data file .\ibdata1 did not exist:
+InnoDB: a new database to be created!
+230922 10:05:07  InnoDB: Setting file .\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+230922 10:05:07  InnoDB: Log file .\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+230922 10:05:07  InnoDB: Log file .\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file .\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+230922 10:05:07  InnoDB: Started; log sequence number 0 0
+230922 10:08:16  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+230922 10:08:16  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43634.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43634
+230922 10:08:16  InnoDB: Flushing modified pages from the buffer pool...
+230922 10:08:16  InnoDB: Started; log sequence number 0 43634
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+230922 10:45:21  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+230922 10:45:21  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43634.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43634
+230922 10:45:21  InnoDB: Flushing modified pages from the buffer pool...
+230922 10:45:21  InnoDB: Started; log sequence number 0 43634
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+230929  9:03:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+230929  9:03:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43634.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43634
+230929  9:03:13  InnoDB: Flushing modified pages from the buffer pool...
+230929  9:03:13  InnoDB: Started; log sequence number 0 43634
+230929  9:03:59  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+230929  9:03:59  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43634.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43634
+230929  9:03:59  InnoDB: Flushing modified pages from the buffer pool...
+230929  9:03:59  InnoDB: Started; log sequence number 0 43634
+231006  8:57:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231006  8:57:55  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43634.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43634
+231006  8:57:55  InnoDB: Flushing modified pages from the buffer pool...
+231006  8:57:55  InnoDB: Started; log sequence number 0 43634
+231012 21:27:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231012 21:27:37  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43634.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43634
+231012 21:27:37  InnoDB: Flushing modified pages from the buffer pool...
+231012 21:27:37  InnoDB: Started; log sequence number 0 43634
+231013  8:48:29  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231013  8:48:29  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 43634.
+InnoDB: Doing recovery: scanned up to log sequence number 0 43634
+231013  8:48:29  InnoDB: Flushing modified pages from the buffer pool...
+231013  8:48:29  InnoDB: Started; log sequence number 0 43634
+231020  0:30:46  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231020  0:30:46  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 46065.
+InnoDB: Doing recovery: scanned up to log sequence number 0 46065
+231020  0:30:46  InnoDB: Flushing modified pages from the buffer pool...
+231020  0:30:46  InnoDB: Started; log sequence number 0 46065
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231020  7:08:28  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231020  7:08:28  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 46065.
+InnoDB: Doing recovery: scanned up to log sequence number 0 46065
+231020  7:08:28  InnoDB: Flushing modified pages from the buffer pool...
+231020  7:08:28  InnoDB: Started; log sequence number 0 46065
+231020  8:43:58  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231020  8:43:58  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 46065.
+InnoDB: Doing recovery: scanned up to log sequence number 0 46065
+231020  8:43:58  InnoDB: Flushing modified pages from the buffer pool...
+231020  8:43:58  InnoDB: Started; log sequence number 0 46065
+231027  8:55:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231027  8:55:56  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 65449.
+InnoDB: Doing recovery: scanned up to log sequence number 0 65449
+231027  8:55:56  InnoDB: Flushing modified pages from the buffer pool...
+231027  8:55:56  InnoDB: Started; log sequence number 0 65449
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231103  9:35:02  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231103  9:35:02  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 65974.
+InnoDB: Doing recovery: scanned up to log sequence number 0 65974
+231103  9:35:02  InnoDB: Flushing modified pages from the buffer pool...
+231103  9:35:02  InnoDB: Started; log sequence number 0 65974
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231103  9:39:54  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231103  9:39:54  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 66010.
+InnoDB: Doing recovery: scanned up to log sequence number 0 66010
+231103  9:39:54  InnoDB: Flushing modified pages from the buffer pool...
+231103  9:39:54  InnoDB: Started; log sequence number 0 66010
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231130 23:53:00  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231130 23:53:00  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 75968.
+InnoDB: Doing recovery: scanned up to log sequence number 0 75968
+231130 23:53:00  InnoDB: Flushing modified pages from the buffer pool...
+231130 23:53:00  InnoDB: Started; log sequence number 0 75968
+231130 23:53:57  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231130 23:53:57  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 75968.
+InnoDB: Doing recovery: scanned up to log sequence number 0 75968
+231130 23:53:58  InnoDB: Flushing modified pages from the buffer pool...
+231130 23:53:58  InnoDB: Started; log sequence number 0 75968
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231201  0:10:49  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231201  0:10:49  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 75968.
+InnoDB: Doing recovery: scanned up to log sequence number 0 75968
+231201  0:10:49  InnoDB: Flushing modified pages from the buffer pool...
+231201  0:10:49  InnoDB: Started; log sequence number 0 75968
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231201  2:19:29  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231201  2:19:29  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 188155.
+InnoDB: Doing recovery: scanned up to log sequence number 0 188155
+231201  2:19:29  InnoDB: Flushing modified pages from the buffer pool...
+231201  2:19:30  InnoDB: Started; log sequence number 0 188155
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231204 19:11:47  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231204 19:11:47  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 188194.
+InnoDB: Doing recovery: scanned up to log sequence number 0 188194
+231204 19:11:47  InnoDB: Flushing modified pages from the buffer pool...
+231204 19:11:47  InnoDB: Started; log sequence number 0 188194
+231205 11:44:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231205 11:44:13  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 188194.
+InnoDB: Doing recovery: scanned up to log sequence number 0 188194
+231205 11:44:13  InnoDB: Flushing modified pages from the buffer pool...
+231205 11:44:13  InnoDB: Started; log sequence number 0 188194
+231205 14:37:04  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231205 14:37:04  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 188204.
+InnoDB: Doing recovery: scanned up to log sequence number 0 188204
+231205 14:37:04  InnoDB: Flushing modified pages from the buffer pool...
+231205 14:37:04  InnoDB: Started; log sequence number 0 188204
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231205 14:40:20  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231205 14:40:20  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 188204.
+InnoDB: Doing recovery: scanned up to log sequence number 0 188204
+231205 14:40:21  InnoDB: Flushing modified pages from the buffer pool...
+231205 14:40:21  InnoDB: Started; log sequence number 0 188204
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231205 14:43:43  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231205 14:43:43  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 188204.
+InnoDB: Doing recovery: scanned up to log sequence number 0 188204
+231205 14:43:43  InnoDB: Flushing modified pages from the buffer pool...
+231205 14:43:43  InnoDB: Started; log sequence number 0 188204
+231205 15:14:09  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231205 15:14:09  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 188204.
+InnoDB: Doing recovery: scanned up to log sequence number 0 188204
+231205 15:14:09  InnoDB: Flushing modified pages from the buffer pool...
+231205 15:14:09  InnoDB: Started; log sequence number 0 188204
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231205 16:16:26  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231205 16:16:27  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 188204.
+InnoDB: Doing recovery: scanned up to log sequence number 0 188204
+231205 16:16:27  InnoDB: Flushing modified pages from the buffer pool...
+231205 16:16:27  InnoDB: Started; log sequence number 0 188204
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231209 13:32:34  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231209 13:32:34  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 208228.
+InnoDB: Doing recovery: scanned up to log sequence number 0 208228
+231209 13:32:34  InnoDB: Flushing modified pages from the buffer pool...
+231209 13:32:34  InnoDB: Started; log sequence number 0 208228
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231210 13:27:50  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231210 13:27:50  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 306398.
+InnoDB: Doing recovery: scanned up to log sequence number 0 306398
+231210 13:27:50  InnoDB: Flushing modified pages from the buffer pool...
+231210 13:27:50  InnoDB: Started; log sequence number 0 306398
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231211 14:08:56  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231211 14:08:56  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 402083.
+InnoDB: Doing recovery: scanned up to log sequence number 0 402083
+231211 14:08:56  InnoDB: Flushing modified pages from the buffer pool...
+231211 14:08:56  InnoDB: Started; log sequence number 0 402083
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231212 10:02:44  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231212 10:02:44  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 501566.
+InnoDB: Doing recovery: scanned up to log sequence number 0 501566
+231212 10:02:44  InnoDB: Flushing modified pages from the buffer pool...
+231212 10:02:44  InnoDB: Started; log sequence number 0 501566
+231212 10:18:07  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231212 10:18:08  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 502201.
+InnoDB: Doing recovery: scanned up to log sequence number 0 502201
+231212 10:18:08  InnoDB: Flushing modified pages from the buffer pool...
+231212 10:18:08  InnoDB: Started; log sequence number 0 502201
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231212 12:17:24  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231212 12:17:24  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 508788.
+InnoDB: Doing recovery: scanned up to log sequence number 0 508788
+231212 12:17:24  InnoDB: Flushing modified pages from the buffer pool...
+231212 12:17:24  InnoDB: Started; log sequence number 0 508788
+231214 13:50:33  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231214 13:50:33  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 510685.
+InnoDB: Doing recovery: scanned up to log sequence number 0 510685
+231214 13:50:34  InnoDB: Flushing modified pages from the buffer pool...
+231214 13:50:34  InnoDB: Started; log sequence number 0 510685
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)
+231214 13:51:05  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+231214 13:51:05  InnoDB: Starting log scan based on checkpoint at
+InnoDB: log sequence number 0 510685.
+InnoDB: Doing recovery: scanned up to log sequence number 0 510685
+231214 13:51:05  InnoDB: Flushing modified pages from the buffer pool...
+231214 13:51:05  InnoDB: Started; log sequence number 0 510685
+W:\usr\local\mysql\bin\mysqld.exe: ready for connections.
+Version: '4.1.22-community'  socket: ''  port: 3306  MySQL Community Edition (GPL)

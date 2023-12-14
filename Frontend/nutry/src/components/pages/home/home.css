@@ -1,0 +1,30 @@
+/* make an animation for img to be floating and rotated notisably and when hovered it gets a bit bigger */
+
+
+/* everything except div when hovered get a bit bigger */
+
+*{
+    transition: all 0.3s ease-in-out;
+}
+img:hover{
+    transform: scale(1.1);
+}
+
+
+.big-img{
+    transition: all 0.3s ease-in-out;
+    animation: floating 3s ease-in-out infinite;
+    transition: all 0.3s ease-in-out;
+}
+@keyframes floating {
+    0% {
+        transform: translate(0,  0px) rotate(0deg);
+    }
+    50% {
+        transform: translate(-30px, -30px) rotate(10deg);
+    }
+    100% {
+        transform: translate(0, 0px) rotate(0deg);
+    }
+    
+}

@@ -1,0 +1,373 @@
+[Fri Sep 22 10:05:08 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 22 10:05:08 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Sep 22 10:05:08 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Sep 22 10:05:08 2023] [notice] Parent: Created child process 10104
+[Fri Sep 22 10:05:08 2023] [notice] Child 10104: Child process is running
+[Fri Sep 22 10:05:08 2023] [notice] Child 10104: Acquired the start mutex.
+[Fri Sep 22 10:05:08 2023] [notice] Child 10104: Starting 250 worker threads.
+[Fri Sep 22 10:08:16 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 22 10:08:16 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Sep 22 10:08:16 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Sep 22 10:08:16 2023] [notice] Parent: Created child process 15948
+[Fri Sep 22 10:08:16 2023] [notice] Child 15948: Child process is running
+[Fri Sep 22 10:08:16 2023] [notice] Child 15948: Acquired the start mutex.
+[Fri Sep 22 10:08:16 2023] [notice] Child 15948: Starting 250 worker threads.
+[Fri Sep 22 10:08:26 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Sep 22 10:45:41 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Sep 22 10:45:46 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Sep 22 10:45:46 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Sep 22 10:45:46 2023] [notice] Parent: Created child process 1556
+[Fri Sep 22 10:45:46 2023] [notice] Child 1556: Child process is running
+[Fri Sep 22 10:45:46 2023] [notice] Child 1556: Acquired the start mutex.
+[Fri Sep 22 10:45:46 2023] [notice] Child 1556: Starting 250 worker threads.
+[Fri Sep 22 10:46:09 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Sep 29 09:03:31 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Sep 29 09:03:31 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Sep 29 09:03:31 2023] [notice] Parent: Created child process 16812
+[Fri Sep 29 09:03:31 2023] [notice] Child 16812: Child process is running
+[Fri Sep 29 09:03:32 2023] [notice] Child 16812: Acquired the start mutex.
+[Fri Sep 29 09:03:32 2023] [notice] Child 16812: Starting 250 worker threads.
+[Fri Sep 29 09:03:59 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Sep 29 09:03:59 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Sep 29 09:03:59 2023] [notice] Parent: Created child process 24776
+[Fri Sep 29 09:03:59 2023] [notice] Child 24776: Child process is running
+[Fri Sep 29 09:03:59 2023] [notice] Child 24776: Acquired the start mutex.
+[Fri Sep 29 09:03:59 2023] [notice] Child 24776: Starting 250 worker threads.
+[Fri Sep 29 09:04:00 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Sep 29 09:48:07 2023] [error] [client 127.0.0.1] script 'W:/var/www/seance tp2/test4.php' not found or unable to stat
+[Fri Oct 06 08:58:06 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 06 08:58:09 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 06 08:58:09 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 06 08:58:09 2023] [notice] Parent: Created child process 27364
+[Fri Oct 06 08:58:09 2023] [notice] Child 27364: Child process is running
+[Fri Oct 06 08:58:09 2023] [notice] Child 27364: Acquired the start mutex.
+[Fri Oct 06 08:58:09 2023] [notice] Child 27364: Starting 250 worker threads.
+[Fri Oct 06 08:58:17 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Thu Oct 12 21:27:51 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 12 21:27:52 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Oct 12 21:27:52 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Oct 12 21:27:52 2023] [notice] Parent: Created child process 13272
+[Thu Oct 12 21:27:52 2023] [notice] Child 13272: Child process is running
+[Thu Oct 12 21:27:52 2023] [notice] Child 13272: Acquired the start mutex.
+[Thu Oct 12 21:27:52 2023] [notice] Child 13272: Starting 250 worker threads.
+[Thu Oct 12 21:33:31 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Oct 13 08:48:29 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 13 08:48:29 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 13 08:48:29 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 13 08:48:29 2023] [notice] Parent: Created child process 4972
+[Fri Oct 13 08:48:29 2023] [notice] Child 4972: Child process is running
+[Fri Oct 13 08:48:29 2023] [notice] Child 4972: Acquired the start mutex.
+[Fri Oct 13 08:48:29 2023] [notice] Child 4972: Starting 250 worker threads.
+[Fri Oct 13 08:48:31 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Oct 20 00:31:03 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 20 00:31:03 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 20 00:31:04 2023] [notice] Parent: Created child process 1312
+[Fri Oct 20 00:31:04 2023] [notice] Child 1312: Child process is running
+[Fri Oct 20 00:31:04 2023] [notice] Child 1312: Acquired the start mutex.
+[Fri Oct 20 00:31:04 2023] [notice] Child 1312: Starting 250 worker threads.
+[Fri Oct 20 00:31:04 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Oct 20 07:08:28 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 20 07:08:28 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 20 07:08:28 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 20 07:08:28 2023] [notice] Parent: Created child process 6188
+[Fri Oct 20 07:08:28 2023] [notice] Child 6188: Child process is running
+[Fri Oct 20 07:08:29 2023] [notice] Child 6188: Acquired the start mutex.
+[Fri Oct 20 07:08:29 2023] [notice] Child 6188: Starting 250 worker threads.
+[Fri Oct 20 07:09:45 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/seance%20tp2/tp/
+[Fri Oct 20 07:40:50 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/seance tp3/tp/ex1/inscription.html, referer: http://localhost/seance%20tp3/tp/ex1/add_etudiant.php
+[Fri Oct 20 07:47:48 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/seance tp3/tp/ex1/add_etudiant.html, referer: http://localhost/seance%20tp3/tp/ex1/index.html
+[Fri Oct 20 08:43:57 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 20 08:43:58 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 20 08:43:58 2023] [notice] Parent: Created child process 10544
+[Fri Oct 20 08:43:58 2023] [notice] Child 10544: Child process is running
+[Fri Oct 20 08:43:58 2023] [notice] Child 10544: Acquired the start mutex.
+[Fri Oct 20 08:43:58 2023] [notice] Child 10544: Starting 250 worker threads.
+[Fri Oct 20 08:44:27 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Oct 20 09:16:43 2023] [error] [client 127.0.0.1] script 'W:/var/www/seance tp4/supp/update_etud.php' not found or unable to stat, referer: http://localhost/seance%20tp4/supp/delete_etud.php
+[Fri Oct 27 08:56:27 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Oct 27 08:56:29 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Oct 27 08:56:29 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Oct 27 08:56:29 2023] [notice] Parent: Created child process 16268
+[Fri Oct 27 08:56:29 2023] [notice] Child 16268: Child process is running
+[Fri Oct 27 08:56:29 2023] [notice] Child 16268: Acquired the start mutex.
+[Fri Oct 27 08:56:29 2023] [notice] Child 16268: Starting 250 worker threads.
+[Fri Oct 27 08:56:37 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Nov 03 09:35:03 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 03 09:35:03 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Nov 03 09:35:03 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Nov 03 09:35:03 2023] [notice] Parent: Created child process 25276
+[Fri Nov 03 09:35:03 2023] [notice] Child 25276: Child process is running
+[Fri Nov 03 09:35:03 2023] [notice] Child 25276: Acquired the start mutex.
+[Fri Nov 03 09:35:03 2023] [notice] Child 25276: Starting 250 worker threads.
+[Fri Nov 03 09:39:54 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 03 09:39:54 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Nov 03 09:39:54 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Nov 03 09:39:54 2023] [notice] Parent: Created child process 20624
+[Fri Nov 03 09:39:54 2023] [notice] Child 20624: Child process is running
+[Fri Nov 03 09:39:54 2023] [notice] Child 20624: Acquired the start mutex.
+[Fri Nov 03 09:39:54 2023] [notice] Child 20624: Starting 250 worker threads.
+[Fri Nov 03 10:12:58 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Nov 03 11:42:55 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/seance tp5/view/function.PDOStatement-execute, referer: http://localhost/seance%20tp5/view/rechvoiture_action.php
+[Fri Dec 01 00:10:49 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Dec 01 00:10:50 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Dec 01 00:10:50 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Dec 01 00:10:50 2023] [notice] Parent: Created child process 11764
+[Fri Dec 01 00:10:50 2023] [notice] Child 11764: Child process is running
+[Fri Dec 01 00:10:50 2023] [notice] Child 11764: Acquired the start mutex.
+[Fri Dec 01 00:10:50 2023] [notice] Child 11764: Starting 250 worker threads.
+[Fri Dec 01 01:54:52 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/views/test
+[Fri Dec 01 02:12:37 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/home
+[Fri Dec 01 02:13:00 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/views/test
+[Fri Dec 01 02:19:31 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Fri Dec 01 02:19:31 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Fri Dec 01 02:19:31 2023] [notice] Parent: Created child process 8600
+[Fri Dec 01 02:19:31 2023] [notice] Child 8600: Child process is running
+[Fri Dec 01 02:19:31 2023] [notice] Child 8600: Acquired the start mutex.
+[Fri Dec 01 02:19:31 2023] [notice] Child 8600: Starting 250 worker threads.
+[Fri Dec 01 02:19:36 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Fri Dec 01 02:19:54 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Fri Dec 01 02:19:54 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/
+[Fri Dec 01 02:20:06 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/views/test
+[Fri Dec 01 02:20:07 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/views/test
+[Fri Dec 01 02:20:14 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/views/test.php
+[Fri Dec 01 02:20:14 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/views/test.php
+[Fri Dec 01 02:20:21 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/views/test.php
+[Fri Dec 01 02:21:12 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/views/test
+[Fri Dec 01 02:21:13 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/views/test
+[Fri Dec 01 02:21:20 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/views/testd
+[Fri Dec 01 02:21:20 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/views/testd
+[Fri Dec 01 02:21:23 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/views/test
+[Fri Dec 01 02:21:27 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/views/per
+[Fri Dec 01 02:21:28 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/views/per
+[Fri Dec 01 02:22:59 2023] [alert] [client 127.0.0.1] W:/var/www/.htaccess: RewriteCond: bad argument line '%{REQUEST_FILENAME}\\.html'
+[Fri Dec 01 02:22:59 2023] [alert] [client 127.0.0.1] W:/var/www/.htaccess: RewriteCond: bad argument line '%{REQUEST_FILENAME}\\.html', referer: http://localhost/views/per
+[Fri Dec 01 02:23:08 2023] [alert] [client 127.0.0.1] W:/var/www/.htaccess: RewriteCond: bad argument line '%{REQUEST_FILENAME}\\.html'
+[Fri Dec 01 02:23:08 2023] [alert] [client 127.0.0.1] W:/var/www/.htaccess: RewriteCond: bad argument line '%{REQUEST_FILENAME}\\.html', referer: http://localhost/views/test.php
+[Fri Dec 01 02:29:48 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/views/test.php
+[Fri Dec 01 02:29:49 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/views/test.php
+[Fri Dec 01 02:31:33 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/views/test.php
+[Fri Dec 01 02:31:39 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/views/test
+[Mon Dec 04 19:11:48 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Mon Dec 04 19:11:48 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Mon Dec 04 19:11:48 2023] [notice] Parent: Created child process 11092
+[Mon Dec 04 19:11:48 2023] [notice] Child 11092: Child process is running
+[Mon Dec 04 19:11:48 2023] [notice] Child 11092: Acquired the start mutex.
+[Mon Dec 04 19:11:48 2023] [notice] Child 11092: Starting 250 worker threads.
+[Tue Dec 05 11:44:12 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Dec 05 11:44:12 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Dec 05 11:44:13 2023] [notice] Parent: Created child process 11880
+[Tue Dec 05 11:44:13 2023] [notice] Child 11880: Child process is running
+[Tue Dec 05 11:44:13 2023] [notice] Child 11880: Acquired the start mutex.
+[Tue Dec 05 11:44:13 2023] [notice] Child 11880: Starting 250 worker threads.
+[Tue Dec 05 13:24:23 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Tue Dec 05 13:24:37 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/user
+[Tue Dec 05 13:24:54 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Tue Dec 05 13:24:54 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/
+[Tue Dec 05 13:24:58 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Tue Dec 05 13:24:58 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/
+[Tue Dec 05 13:25:10 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Tue Dec 05 13:25:10 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/
+[Tue Dec 05 13:25:15 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/admin
+[Tue Dec 05 13:25:15 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/admin
+[Tue Dec 05 13:25:26 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/index.php
+[Tue Dec 05 13:25:26 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/index.php
+[Tue Dec 05 13:26:22 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/phpinfo/
+[Tue Dec 05 13:26:45 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Tue Dec 05 13:26:46 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/favicon.ico, referer: http://localhost/
+[Tue Dec 05 13:27:31 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
+[Tue Dec 05 13:30:01 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Tue Dec 05 13:30:12 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/user
+[Tue Dec 05 13:30:24 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/user
+[Tue Dec 05 13:38:41 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/user
+[Tue Dec 05 13:47:14 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/user
+[Tue Dec 05 13:47:16 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/user
+[Tue Dec 05 13:47:16 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/user
+[Tue Dec 05 13:47:16 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/user
+[Tue Dec 05 14:18:08 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/index.php
+[Tue Dec 05 14:18:48 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Tue Dec 05 14:19:08 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/user
+[Tue Dec 05 14:19:19 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/user
+[Tue Dec 05 14:37:05 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Dec 05 14:37:05 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Dec 05 14:37:06 2023] [notice] Parent: Created child process 14080
+[Tue Dec 05 14:37:06 2023] [notice] Child 14080: Child process is running
+[Tue Dec 05 14:37:06 2023] [notice] Child 14080: Acquired the start mutex.
+[Tue Dec 05 14:37:06 2023] [notice] Child 14080: Starting 250 worker threads.
+[Tue Dec 05 14:37:11 2023] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /user
+[Tue Dec 05 14:37:32 2023] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /
+[Tue Dec 05 14:39:48 2023] [crit] [client 127.0.0.1] configuration error:  couldn't perform authentication. AuthType not set!: /dashboard/
+[Tue Dec 05 14:40:20 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Dec 05 14:40:21 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Dec 05 14:40:21 2023] [notice] Parent: Created child process 15424
+[Tue Dec 05 14:40:21 2023] [notice] Child 15424: Child process is running
+[Tue Dec 05 14:40:21 2023] [notice] Child 15424: Acquired the start mutex.
+[Tue Dec 05 14:40:21 2023] [notice] Child 15424: Starting 250 worker threads.
+[Tue Dec 05 14:40:23 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/dashboard
+[Tue Dec 05 14:40:28 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Tue Dec 05 14:43:43 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Dec 05 14:43:43 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Dec 05 14:43:43 2023] [notice] Parent: Created child process 10876
+[Tue Dec 05 14:43:43 2023] [notice] Child 10876: Child process is running
+[Tue Dec 05 14:43:43 2023] [notice] Child 10876: Acquired the start mutex.
+[Tue Dec 05 14:43:43 2023] [notice] Child 10876: Starting 250 worker threads.
+[Tue Dec 05 14:43:46 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/
+[Tue Dec 05 15:14:09 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 05 15:14:09 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Dec 05 15:14:09 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Dec 05 15:14:09 2023] [notice] Parent: Created child process 124
+[Tue Dec 05 15:14:09 2023] [notice] Child 124: Child process is running
+[Tue Dec 05 15:14:09 2023] [notice] Child 124: Acquired the start mutex.
+[Tue Dec 05 15:14:09 2023] [notice] Child 124: Starting 250 worker threads.
+[Tue Dec 05 16:10:11 2023] [error] [client 127.0.0.1] Options FollowSymLinks or SymLinksIfOwnerMatch is off which implies that RewriteRule directive is forbidden: W:/var/www/api/register.php
+[Tue Dec 05 16:10:22 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/register.php' not found or unable to stat
+[Tue Dec 05 16:16:26 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Dec 05 16:16:26 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Dec 05 16:16:26 2023] [notice] Parent: Created child process 15432
+[Tue Dec 05 16:16:27 2023] [notice] Child 15432: Child process is running
+[Tue Dec 05 16:16:27 2023] [notice] Child 15432: Acquired the start mutex.
+[Tue Dec 05 16:16:27 2023] [notice] Child 15432: Starting 250 worker threads.
+[Tue Dec 05 16:17:21 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/auth/function.include-once, referer: http://localhost/api/auth/register.php
+[Sat Dec 09 13:32:34 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 09 13:32:35 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sat Dec 09 13:32:35 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sat Dec 09 13:32:35 2023] [notice] Parent: Created child process 12540
+[Sat Dec 09 13:32:35 2023] [notice] Child 12540: Child process is running
+[Sat Dec 09 13:32:35 2023] [notice] Child 12540: Acquired the start mutex.
+[Sat Dec 09 13:32:35 2023] [notice] Child 12540: Starting 250 worker threads.
+[Sun Dec 10 00:30:20 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getMaeals.php' not found or unable to stat, referer: http://localhost:3000/
+[Sun Dec 10 00:30:21 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getMaeals.php' not found or unable to stat, referer: http://localhost:3000/
+[Sun Dec 10 00:30:23 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getMaeals.php' not found or unable to stat, referer: http://localhost:3000/
+[Sun Dec 10 00:30:25 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getMaeals.php' not found or unable to stat, referer: http://localhost:3000/
+[Sun Dec 10 00:30:25 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getMaeals.php' not found or unable to stat, referer: http://localhost:3000/
+[Sun Dec 10 00:31:01 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getMaeals.php' not found or unable to stat, referer: http://localhost:3000/
+[Sun Dec 10 00:31:01 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getMaeals.php' not found or unable to stat, referer: http://localhost:3000/
+[Sun Dec 10 13:27:50 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Sun Dec 10 13:27:50 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Sun Dec 10 13:27:50 2023] [notice] Parent: Created child process 16584
+[Sun Dec 10 13:27:50 2023] [notice] Child 16584: Child process is running
+[Sun Dec 10 13:27:50 2023] [notice] Child 16584: Acquired the start mutex.
+[Sun Dec 10 13:27:50 2023] [notice] Child 16584: Starting 250 worker threads.
+[Sun Dec 10 14:45:56 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getFaoods.php' not found or unable to stat
+[Sun Dec 10 17:58:40 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/saveMeal.php' not found or unable to stat, referer: http://localhost:3000/
+[Sun Dec 10 17:58:40 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/saveMeal.php' not found or unable to stat, referer: http://localhost:3000/
+[Sun Dec 10 17:58:40 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/saveMeal.php' not found or unable to stat, referer: http://localhost:3000/
+[Sun Dec 10 17:58:40 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/saveMeal.php' not found or unable to stat, referer: http://localhost:3000/
+[Mon Dec 11 14:08:56 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Mon Dec 11 14:08:56 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Mon Dec 11 14:08:56 2023] [notice] Parent: Created child process 19232
+[Mon Dec 11 14:08:56 2023] [notice] Child 19232: Child process is running
+[Mon Dec 11 14:08:57 2023] [notice] Child 19232: Acquired the start mutex.
+[Mon Dec 11 14:08:57 2023] [notice] Child 19232: Starting 250 worker threads.
+[Mon Dec 11 15:54:49 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/auth/cheackAuth.php' not found or unable to stat, referer: http://localhost:3000/
+[Mon Dec 11 15:54:52 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/auth/cheackAuth.php' not found or unable to stat, referer: http://localhost:3000/
+[Mon Dec 11 15:54:52 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/auth/cheackAuth.php' not found or unable to stat, referer: http://localhost:3000/
+[Mon Dec 11 15:55:17 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/auth/cheackAuth.php' not found or unable to stat, referer: http://localhost:3000/
+[Mon Dec 11 15:55:26 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/auth/cheackAuth.php' not found or unable to stat, referer: http://localhost:3000/
+[Mon Dec 11 15:55:34 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/auth/cheackAuth.php' not found or unable to stat, referer: http://localhost:3000/
+[Mon Dec 11 16:18:01 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin
+[Mon Dec 11 16:18:02 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/api/admin/getAdminData.php
+[Mon Dec 11 16:18:58 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:18:59 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:19:14 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:19:14 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:20:08 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:20:08 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:20:16 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:20:23 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:20:23 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:20:37 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:20:40 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:20:40 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:20:52 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:21:16 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:21:28 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:21:28 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:21:32 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:21:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:21:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:21:41 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:32:49 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:32:57 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:33:03 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:48:57 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:48:58 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:49:04 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:49:04 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:49:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:49:34 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:50:48 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:50:48 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:50:51 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 16:50:51 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/api/admin, referer: http://localhost:3000/
+[Mon Dec 11 17:14:52 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/makeUserAdmin.php' not found or unable to stat
+[Mon Dec 11 21:26:07 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/auth/createFood.php' not found or unable to stat
+[Tue Dec 12 00:10:45 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:10:52 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:10:52 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:03 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:03 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:17 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:30 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:33 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:33 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:34 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:34 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:40 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:41 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:41 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:47 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:51 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:11:51 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:12:10 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:12:10 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:13:04 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:13:04 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:13:07 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:13:07 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:13:22 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:13:22 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:14:20 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:14:20 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:14:21 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:14:21 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:14:34 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:14:36 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:14:36 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getAllRequesats.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:49:54 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getResponses.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:49:54 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getResponses.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:49:56 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getResponses.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:50:00 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getResponses.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 00:50:00 2023] [error] [client 127.0.0.1] script 'W:/var/www/api/base/getResponses.php' not found or unable to stat, referer: http://localhost:3000/
+[Tue Dec 12 10:02:44 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 12 10:02:44 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Dec 12 10:02:44 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Dec 12 10:02:44 2023] [notice] Parent: Created child process 17140
+[Tue Dec 12 10:02:44 2023] [notice] Child 17140: Child process is running
+[Tue Dec 12 10:02:44 2023] [notice] Child 17140: Acquired the start mutex.
+[Tue Dec 12 10:02:44 2023] [notice] Child 17140: Starting 250 worker threads.
+[Tue Dec 12 10:18:07 2023] [warn] pid file W:/usr/local/apache2/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 12 10:18:07 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Dec 12 10:18:07 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Dec 12 10:18:07 2023] [notice] Parent: Created child process 14780
+[Tue Dec 12 10:18:07 2023] [notice] Child 14780: Child process is running
+[Tue Dec 12 10:18:07 2023] [notice] Child 14780: Acquired the start mutex.
+[Tue Dec 12 10:18:07 2023] [notice] Child 14780: Starting 250 worker threads.
+[Tue Dec 12 12:17:23 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Tue Dec 12 12:17:24 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Tue Dec 12 12:17:24 2023] [notice] Parent: Created child process 15400
+[Tue Dec 12 12:17:24 2023] [notice] Child 15400: Child process is running
+[Tue Dec 12 12:17:24 2023] [notice] Child 15400: Acquired the start mutex.
+[Tue Dec 12 12:17:24 2023] [notice] Child 15400: Starting 250 worker threads.
+[Thu Dec 14 13:50:35 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Dec 14 13:50:35 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Dec 14 13:50:35 2023] [notice] Parent: Created child process 8060
+[Thu Dec 14 13:50:35 2023] [notice] Child 8060: Child process is running
+[Thu Dec 14 13:50:35 2023] [notice] Child 8060: Acquired the start mutex.
+[Thu Dec 14 13:50:35 2023] [notice] Child 8060: Starting 250 worker threads.
+[Thu Dec 14 13:51:05 2023] [notice] Apache/2.0.54 (Win32) PHP/5.2.3 configured -- resuming normal operations
+[Thu Dec 14 13:51:05 2023] [notice] Server built: Apr 16 2005 14:25:31
+[Thu Dec 14 13:51:05 2023] [notice] Parent: Created child process 1404
+[Thu Dec 14 13:51:05 2023] [notice] Child 1404: Child process is running
+[Thu Dec 14 13:51:05 2023] [notice] Child 1404: Acquired the start mutex.
+[Thu Dec 14 13:51:05 2023] [notice] Child 1404: Starting 250 worker threads.
+[Thu Dec 14 13:52:45 2023] [error] [client 127.0.0.1] File does not exist: W:/var/www/favicon.ico, referer: http://localhost/
